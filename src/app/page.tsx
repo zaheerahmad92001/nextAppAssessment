@@ -23,7 +23,7 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 
-export default function App() {
+export default function Home() {
 
   return (
     <ApolloProvider client={client}>
