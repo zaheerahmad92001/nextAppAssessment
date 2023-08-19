@@ -8,6 +8,8 @@ First, run the development server:
 install node module 
 nmp install
 
+run the backend server first and then 
+
 npm run dev
 # or
 yarn dev
